@@ -1,2 +1,1 @@
-Kafka Python example \
-MDTX commit test
+Kafka Python example
